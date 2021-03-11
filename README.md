@@ -9,4 +9,4 @@ Girvan-Newman algorithm is used to find number of connected components in a netw
   3. Recalculate betweenness of all remaining edges since shortest paths is changing when we remove edges.
   4. Repeat step 3 & 4 until no edges remain.
 
-Data is provided by Dr. Islem Rekik, and code is implented for her Graph Theory lecture at ITU in fall of 2020/2021. Her lecture videos are in Basira Lab YouTube channel. Link: https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ&ab_channel=BASIRALab 
+Data is provided by Dr. Islem Rekik, and code is implented for her Graph Theory lecture at ITU in fall of 2020/2021. Her lecture videos are in BASIRA Lab YouTube channel. Link: https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ&ab_channel=BASIRALab 
